@@ -10,9 +10,9 @@ A modern **3-page Reminder Application** built using **Flutter**, inspired by el
 ## Screenshots
 
 <p align="center">
-  <img src="Assets/Images/2.png" alt="Home Page" width="200"/>
-  <img src="Assets/Images/3.png" alt="Add Reminder Page" width="200"/>
-  <img src="Assets/Images/4.png" alt="View All Reminders Page" width="200"/>
+  <img src="Assets/Images/2.jpg" alt="Home Page" width="200"/>
+  <img src="Assets/Images/3.jpg" alt="Add Reminder Page" width="200"/>
+  <img src="Assets/Images/4.jpg" alt="View All Reminders Page" width="200"/>
 </p>
 
 ## Inspiration

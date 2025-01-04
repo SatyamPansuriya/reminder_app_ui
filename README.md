@@ -1,20 +1,3 @@
-# reminder_app_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # Reminder Application
 
 A modern **3-page Reminder Application** built using **Flutter**, inspired by elegant designs from **Dribbble**. This app offers a clean and user-friendly interface to manage your reminders efficiently.
@@ -26,14 +9,11 @@ A modern **3-page Reminder Application** built using **Flutter**, inspired by el
 
 ## Screenshots
 
-### Home Page
-![Home Page](Assets/Images/2.jpg)
-
-### Add Reminder Page
-![Add Reminder Page](Assets/Images/3.jpg)
-
-### View All Reminders Page
-![View All Reminders Page](Assets/Images/4.jpg)
+<p align="center">
+  <img src="Assets/Images/2.png" alt="Home Page" width="200"/>
+  <img src="Assets/Images/3.png" alt="Add Reminder Page" width="200"/>
+  <img src="Assets/Images/4.png" alt="View All Reminders Page" width="200"/>
+</p>
 
 ## Inspiration
 This application was inspired by the stunning design concept by **Amirhossein Rahmani** on Dribbble. Check out the original design here: [Reminder App Concept](https://dribbble.com/shots/20540099-Reminder-App-Concept).

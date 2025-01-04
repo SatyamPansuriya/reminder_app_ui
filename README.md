@@ -27,13 +27,13 @@ A modern **3-page Reminder Application** built using **Flutter**, inspired by el
 ## Screenshots
 
 ### Home Page
-![Home Page](Assets/Images/2.png)
+![Home Page](Assets/Images/2.jpg)
 
 ### Add Reminder Page
-![Add Reminder Page](Assets/Images/3.png)
+![Add Reminder Page](Assets/Images/3.jpg)
 
 ### View All Reminders Page
-![View All Reminders Page](Assets/Images/4.png)
+![View All Reminders Page](Assets/Images/4.jpg)
 
 ## Inspiration
 This application was inspired by the stunning design concept by **Amirhossein Rahmani** on Dribbble. Check out the original design here: [Reminder App Concept](https://dribbble.com/shots/20540099-Reminder-App-Concept).
